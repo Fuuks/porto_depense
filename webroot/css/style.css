@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+#dashboard{
+	background : black;
+	width: 30%;	
+}
+
+#larg_panel{
+	width: 70%;
+}
+
+#panel_admin{
+	width: 100%;
+}
